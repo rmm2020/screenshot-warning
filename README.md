@@ -4,6 +4,8 @@ Automated warning message (via email or Slack) based on color of point on screen
 
 At work, we have equipment with different levels of logging and error messaging. For automated overnight processes, it is better to have some kind of email or other automatic communication from the system to let you know when a process has failed instead of needing someone to watch the tool or check on it throughout the night. Some systems don't provide that, or an easy way to connect to the software. I came up with a quick little script to send automated alerts when the process indicator turns red on the sequence screen of one of my tools. This speeds up the evening operator's intervention and makes it so someone doesn't have to watch the process throughout the evening. 
 
+It's obviously very rudimentary and less ideal than a real tied-in alert system (since it would have issues if people mess with the screen or pop-up windows block the view) but it is a nice workaround for our situation for now. 
+
 ### Example Screenshot
 
 ![example screenshot](/ExampleScreenshot.png)
