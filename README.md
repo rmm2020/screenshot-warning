@@ -7,7 +7,7 @@ At work, we have equipment with different levels of logging and error messaging.
 ![example screenshot](/ExampleScreenshot.png)
 
 Automated slack message
-![example slack message](/slackmessage.jpg)
+![example slack message](/slackmessage.PNG)
 
 
 ## Screenshot 
